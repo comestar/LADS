@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!-- Creator: Esri ArcMap 10.2.0.3348 -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="566.98583pt" height="566.98583pt" viewBox="0 0 566.98583 566.98583" enable-background="new 0 0 566.98583 566.98583"
+	version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" >
+	<g id="__">
+		<g id="gd_Merge1">
+			<clipPath id="SVG_CP_1">
+				<path d="M0,566.97964L0,0L566.98583,0L566.98583,566.97964L0,566.97964z"/>
+			</clipPath>
+			<path clip-path="url(#SVG_CP_1)" fill="none" stroke="#E60000" stroke-width="2.04432" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round" d="
+				M124.47629,183.76864L146.28236,182.63286L147.64524,212.61736L146.9638,212.61736L147.19094,215.79754L147.41809,216.25185L
+				137.42364,217.16047L137.42364,216.70616L137.1965,215.79754L136.28791,215.79754L135.60647,216.93332L129.47351,217.61478L127.4292,216.479
+				L125.61202,202.16822L123.79485,202.39538L123.34056,196.03503L124.93058,196.03503L124.47629,183.76864"/>
+		</g>
+	</g>
+</svg>
