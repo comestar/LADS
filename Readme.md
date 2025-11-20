@@ -9,6 +9,7 @@ This Git repository contains the description of the LADS dataset, as well as the
 This dataset contains 1,275 land-cover scenes, each with a ground resolution of 0.1 meters per pixel. For every scene, there is a corresponding “image” and “label.”
 
 The images are PNG files, and the labels are PNG masks. A single image corresponds to multiple labels, distinguished by file suffixes for two categories: cropland and buildings (as described below).
+
 Below is an example of a labeled scene:
 
 <img src="img\18759_yxtdt.png" width="600">
