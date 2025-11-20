@@ -1,6 +1,6 @@
 <h2 align="center">LADS</h2>
 
-[English](README.md) | [中文说明](docs\zh\Readme.md)
+[English](README.md) | [中文说明](docs/zh/Readme.md)
 
 This Git repository contains the description of the LADS dataset, as well as the implementation code for the four remote sensing models used in the dataset paper—Mask2Former, U-Net, DeepLabV3+, and Mask R-CNN.
 
